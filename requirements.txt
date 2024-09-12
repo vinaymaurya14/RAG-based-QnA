@@ -1,0 +1,7 @@
+openai
+faiss-cpu
+python-docx
+numpy
+scipy
+python-dotenv
+dspy-ai
